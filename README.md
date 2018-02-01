@@ -10,4 +10,4 @@ In this assignment, you will learn how to use RecyclerView, Action Bar and Dynam
 In addition to Http connection and XML parsing.
 
 
-
+Clone the project and then directly run it in android studio.
